@@ -5,4 +5,4 @@
 function box(){
 console.log("hello")
 }
-box()
+box()//box
